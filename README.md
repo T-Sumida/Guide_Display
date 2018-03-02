@@ -19,5 +19,5 @@ Processing2で動作する案内表示プログラムです．
 ## Requirement
 Processing2
 
-## Licence
+## License
 Copyright © 2016 T_Sumida Distributed under the MIT License.
