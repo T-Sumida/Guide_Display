@@ -73,6 +73,7 @@ int char_color_flag = WHITE;
 
 void setup()
 {
+  size(displayWidth, displayHeight);
   init_env();
   init_var();
   state = 0;
@@ -207,7 +208,6 @@ void init_var()
 //環境の初期化
 void init_env()
 {
-  size(displayWidth, displayHeight);
   colorMode(HSB, 100);
   rectMode(CENTER);
   textMode(CENTER);
