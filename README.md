@@ -17,7 +17,7 @@ Processing2で動作する案内表示プログラムです．
 参考URLなどを，**Guide_Display.pde**にコメントとして記載しています．
 
 ## Requirement
-Processing2
+Processing3.3.6
 
 ## License
 Copyright © 2016 T_Sumida Distributed under the MIT License.
